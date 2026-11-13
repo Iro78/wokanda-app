@@ -1,0 +1,4 @@
+/* Czcionki Wokandy we własnych plikach strony (bez Google Fonts). Licencja: SIL Open Font License 1.1 — pliki OFL-*.txt. */
+@font-face{font-family:'Fraunces';src:url('Fraunces.woff') format('woff');font-weight:500 700;font-style:normal;font-display:swap}
+@font-face{font-family:'Manrope';src:url('Manrope.woff') format('woff');font-weight:200 800;font-style:normal;font-display:swap}
+@font-face{font-family:'JetBrains Mono';src:url('JetBrainsMono.woff') format('woff');font-weight:100 800;font-style:normal;font-display:swap}
