@@ -1,7 +1,7 @@
 /* Wokanda — service worker strony (odmiana serwerowa na GitHub Pages).
    Obsługuje wyłącznie własne pliki strony (ten sam adres): powłokę aplikacji, czcionki, ikony.
    Nigdy nie dotyka zapytań do serwera danych (inny adres) ani niczego poza GET. */
-const C = 'wokanda-v2.3';
+const C = 'wokanda-v2.4';
 const SHELL = ['./', 'fonts/fonts.css', 'fonts/Fraunces.woff', 'fonts/Manrope.woff', 'fonts/JetBrainsMono.woff', 'manifest.webmanifest', 'icon-192.png'];
 
 self.addEventListener('install', e => {
